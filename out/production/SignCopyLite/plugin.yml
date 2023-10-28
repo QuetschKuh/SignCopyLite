@@ -1,0 +1,11 @@
+name: SignCopyLite
+description: Lets you copy and modify text from signs easily
+main: de.lolsu.scl.Main
+version: 1.0
+author: Leo Harter
+website: https://lolsu.de/
+commands:
+    signcopylite:
+      description: "Gives you the SCL Tool if you don't have one, prints out the currently copied text or lets you modify the current text, including '&' color codes"
+      usage: "/signcopylite <Optional: Text> or /scl <Optional: Text>\nTo begin a new line in the text, simply write '\\n'\nTo write color codes use the character '&'"
+      aliases: [scl]

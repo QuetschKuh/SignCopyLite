@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SignCopyLite">
+    <output-path>$PROJECT_DIR$/out/artifacts/SignCopyLite</output-path>
+    <root id="archive" name="SignCopyLite.jar">
+      <element id="module-output" name="SignCopyLite" />
+    </root>
+  </artifact>
+</component>
